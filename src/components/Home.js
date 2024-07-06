@@ -17,7 +17,7 @@ return (
                 Software Development. Additionally, I possess a creative flair, excelling in Illustrations and UI/UX design.
             </div>
             
-            <a href="/Nirvan Resume.pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
+            <a href="/portfolio/Nirvan Resume.pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
                 Download my CV
             </a>
         </div>
