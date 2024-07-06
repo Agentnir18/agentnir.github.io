@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react' 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faHtml5, faCss3, faJs, faVuejs, faLaravel } from '@fortawesome/free-brands-svg-icons';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+// import { faReact, faHtml5, faCss3, faJs, faVuejs, faLaravel } from '@fortawesome/free-brands-svg-icons';
 import CustomHook from './CustomHook';
 
 function Skills() {
@@ -59,21 +59,21 @@ function Skills() {
           ))
         }
       </div> */}
-      <div class="slider" style={{
+      <div className="slider" style={{
             "--height": "100px",
             "--quantity": 10
           }} ref={(el) => el && divs.current.push(el)}>
-            <div class="list">
-                <div class="item" style={{"--position": 1}}><img src="/tech/html.png" alt=""/></div>
-                <div class="item" style={{"--position": 2}}><img src="/tech/css.png" alt=""/></div>
-                <div class="item" style={{"--position": 3}}><img src="/tech/javascript.png" alt=""/></div>
-                <div class="item" style={{"--position": 4}}><img src="/tech/tailwind.png" alt=""/></div>
-                <div class="item" style={{"--position": 5}}><img src="/tech/reactjs.png" alt=""/></div>
-                <div class="item" style={{"--position": 6}}><img src="/tech/nodejs.png" alt=""/></div>
-                <div class="item" style={{"--position": 7}}><img src="/tech/python.png" alt=""/></div>
-                <div class="item" style={{"--position": 8}}><img src="/tech/mongodb.png" alt=""/></div>
-                <div class="item" style={{"--position": 9}}><img src="/tech/figma.png" alt=""/></div>
-                <div class="item" style={{"--position": 10}}><img src="/tech/git.png" alt=""/></div>
+            <div className="list">
+                <div className="item" style={{"--position": 1}}><img src="/tech/html.png" alt=""/></div>
+                <div className="item" style={{"--position": 2}}><img src="/tech/css.png" alt=""/></div>
+                <div className="item" style={{"--position": 3}}><img src="/tech/javascript.png" alt=""/></div>
+                <div className="item" style={{"--position": 4}}><img src="/tech/tailwind.png" alt=""/></div>
+                <div className="item" style={{"--position": 5}}><img src="/tech/reactjs.png" alt=""/></div>
+                <div className="item" style={{"--position": 6}}><img src="/tech/nodejs.png" alt=""/></div>
+                <div className="item" style={{"--position": 7}}><img src="/tech/python.png" alt=""/></div>
+                <div className="item" style={{"--position": 8}}><img src="/tech/mongodb.png" alt=""/></div>
+                <div className="item" style={{"--position": 9}}><img src="/tech/figma.png" alt=""/></div>
+                <div className="item" style={{"--position": 10}}><img src="/tech/git.png" alt=""/></div>
                 
             </div>
       </div>

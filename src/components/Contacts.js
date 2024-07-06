@@ -32,12 +32,12 @@ CustomHook(scrollTab, divs);
             </div>
           ))
         }
-        <div class="social-card">
-                        <a class="socialContainer containerOne" href="https://github.com/Agentnir18">
+        <div className="social-card">
+                        <a className="socialContainer containerOne" href="https://github.com/Agentnir18">
                           <FontAwesomeIcon icon={faGithub} />
                         </a>
 
-                        <a class="socialContainer containerThree" href="https://www.linkedin.com/in/nirvan-bajracharya-5144711ba">
+                        <a className="socialContainer containerThree" href="https://www.linkedin.com/in/nirvan-bajracharya-5144711ba">
                           <FontAwesomeIcon icon={faLinkedin} />
                         </a>
         </div>
