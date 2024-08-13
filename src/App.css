@@ -134,6 +134,10 @@ section.home{
             padding: 20px 30px;
             border-radius: 40px;
         }
+        & a:hover{
+            background-color: #eee;
+            color: #010824;
+        }
     }
     & .avatar{
         text-align: right;
@@ -323,15 +327,18 @@ section.projects{
                 & a{
                     display: block;
                     margin: 20px 0px;   
-                    font-size: large;
+                    font-size: medium;
                     color: #eee;
-                    font-weight: bold;
                     text-decoration: none;
                     border: 1px solid #eee;
                     background-color:transparent;
                     width: max-content;
-                    padding: 20px 30px;
+                    padding: 10px 15px;
                     border-radius: 40px;
+                }
+                & a:hover{
+                    background-color: #eee;
+                    color: #000;
                 }
             }
         }

@@ -37,7 +37,7 @@ CustomHook(scrollTab, divs);
                           <FontAwesomeIcon icon={faGithub} />
                         </a>
 
-                        <a className="socialContainer containerThree" href="https://www.linkedin.com/in/nirvan-bajracharya-5144711ba">
+                        <a className="socialContainer containerThree" href="https://www.linkedin.com/in/nirvanbajracharya/">
                           <FontAwesomeIcon icon={faLinkedin} />
                         </a>
         </div>
