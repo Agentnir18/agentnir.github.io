@@ -16,7 +16,7 @@ return (
                 Specializing in Frontend Development and Data Analysis, keen on transitioning into an AI Engineer. Additionally, I possess a creative flair, excelling in Illustrations and UI/UX design. Known for being a quick learner, with strong analytical skills and attention to detail in debugging and optimizing code.
             </div>
             
-            <a href="/Nirvan Resume v6.pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
+            <a href="/portfolio/Nirvan Resume v6.pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
                 Download my CV
             </a>
         </div>
